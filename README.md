@@ -20,6 +20,8 @@ Course page: https://dongchul.kim/csci3320-fall2026
 | Topic 14 | PyTorch essentials: tensors, autograd, the training loop (the note's code) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dkim2505/csci3320-notebooks/blob/main/topic14_pytorch_essentials.ipynb) |
 | Topic 15 | Designing a network in PyTorch (the note's code) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dkim2505/csci3320-notebooks/blob/main/topic15_designing_networks.ipynb) |
 | Topic 16 | Overfitting and regularization: L2 weight decay, dropout, early stopping (the note's code) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dkim2505/csci3320-notebooks/blob/main/topic16_regularization.ipynb) |
+| Topic 17 | Decision trees: entropy, information gain, and why one tree overfits (the note's code) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dkim2505/csci3320-notebooks/blob/main/topic17_decision_trees.ipynb) |
+| Topic 18 | Naive Bayes: probability by counting, Bayes' rule, and Gaussian Naive Bayes (the note's code) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dkim2505/csci3320-notebooks/blob/main/topic18_naive_bayes.ipynb) |
 
 The assignment itself, the rules and the grading are on the
 [HW1 page](https://dongchul.kim/csci3320-fall2026/hw/1).
